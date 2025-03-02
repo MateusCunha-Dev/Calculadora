@@ -1,1 +1,1 @@
-![Print da tela da calculadora](tela_calculadora.png)
+![Print da tela da calculadora](img/tela_calculadora.png)
